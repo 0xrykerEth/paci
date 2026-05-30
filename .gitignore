@@ -1,6 +1,1 @@
-.env
-.venv/
-__pycache__/
-*.pyc
-data/users.json
-data/notifications.json
+
